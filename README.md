@@ -21,23 +21,23 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://nodejs.org/docs/latest/api/documentation.html">
+  <a  href="https://react.dev/learn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   </a>  
   
-  <a>
+  <a href="https://www.typescriptlang.org/docs/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
   </a>
   
-  <a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   </a>
     
-  <a>
+  <a href="https://nextjs.org/docs">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
   </a>
   
-  <a>
+  <a href="https://nodejs.org/docs/latest/api/documentation.html">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   </a>  
 </div>
