@@ -21,23 +21,23 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://react.dev/learn" target="__blank">
+  <a href="https://react.dev/learn" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
   </a>  
   
-  <a href="https://www.typescriptlang.org/docs/" target="__blank">
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
   </a>
   
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="__blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
   </a>
     
-  <a href="https://nextjs.org/docs" target="__blank">
+  <a href="https://nextjs.org/docs" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="45" alt="nextjs logo"  />
   </a>
   
-  <a href="https://nodejs.org/docs/latest/api/documentation.html" target="__blank">
+  <a href="https://nodejs.org/docs/latest/api/documentation.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="nodejs logo"  />
   </a>  
 </div>
