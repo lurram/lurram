@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Lurram Barbosa Santos, I'm computer engineer, I'm from Macapá-Amapá, I'm seeking a career as a web and mobile developer, leveraging the knowledge I have acquired thus far and the expertise I will continue to develop in the future.<br><br>- 🔭 I’m working as computer technologist <br>- 📚 I'm currently learning react and react native<br>- ⚡ In my free time I like to play computer games, physical activities, and sometimes make codes.</p>
+<p align="left">I'm computer engineer, I'm from Macapá-AP, I'm seeking a career as a fullstack and mobile developer, leveraging the knowledge I have acquired thus far and the expertise I will continue to develop in the future.<br><br>- 🔭 I’m working as computer support <br>- ⚡ In my free time I like to play computer games, physical activities, and sometimes make codes.</p>
 
 ###
 
