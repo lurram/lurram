@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lurram Barbosa Santos</h1>
-<h3 align="center">A man who starting a career in fullstack and mobile development</h3>
+<h3 align="center">Starting a career in fullstack and mobile development</h3>
 
 - 🌱 I’m currently learning **React, React Native, Node.js, Next.js, TypeScript...**
 
