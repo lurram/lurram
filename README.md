@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, React Native, Node.js, Next.js, TypeScript...**
 
-- 👨‍💻 All of my projects are available at [lurram-santos.vercel.app.com](lurram-santos.vercel.app.com)
+- 👨‍💻 All of my projects are available at [[portfolio-lurram.vercel.app.com](https://portfolio-lurrams-projects.vercel.app/)]
 
 - 📫 How to reach me **lurram.santos.dev@gmail.com**
 
